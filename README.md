@@ -2,5 +2,4 @@
 
 A co-op idle/incremental experience
 
-Placeholder Image
-![image](https://user-images.githubusercontent.com/7863230/72696983-f98b4b00-3b1c-11ea-8c46-29b00a242164.png)
+Join the community: https://discord.gg/4f7qwyr
